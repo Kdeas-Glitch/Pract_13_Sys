@@ -1,0 +1,8 @@
+﻿  Pract_13_Demin.cpp
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(51,20): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(52,18): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(56,23): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(60,39): warning C4244: =: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(65,40): warning C4244: =: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(76,40): warning C4244: =: преобразование "ULONGLONG" в "int", возможна потеря данных
+  Pract_13_Demin.vcxproj -> C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\x64\Debug\Pract_13_Demin.exe
