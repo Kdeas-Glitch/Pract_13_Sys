@@ -1,8 +1,15 @@
 ﻿  Pract_13_Demin.cpp
-C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(51,20): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
-C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(52,18): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
-C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(56,23): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
-C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(60,39): warning C4244: =: преобразование "ULONGLONG" в "int", возможна потеря данных
-C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(65,40): warning C4244: =: преобразование "ULONGLONG" в "int", возможна потеря данных
-C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(76,40): warning C4244: =: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(71,20): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(73,19): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(82,23): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(85,60): warning C4244: -=: преобразование "double" в "long", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(94,40): warning C4244: =: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(106,17): warning C4311: приведение типов: усечение указателя из "LPVOID" в "int"
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(106,17): warning C4302: приведение типов: усечение из "LPVOID" к "int"
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(110,20): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(111,18): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(116,23): warning C4244: инициализация: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(119,39): warning C4244: =: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(124,40): warning C4244: =: преобразование "ULONGLONG" в "int", возможна потеря данных
+C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\Pract_13_Demin.cpp(163,52): warning C4312: приведение типов: преобразование из "int" в "void *" большего размера
   Pract_13_Demin.vcxproj -> C:\Users\HardShop\Desktop\Projects\Pract_13_Demin\x64\Debug\Pract_13_Demin.exe
